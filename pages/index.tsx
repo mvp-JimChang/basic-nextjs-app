@@ -10,7 +10,7 @@ export const Home = (): JSX.Element => (
 
     <main>
       <h1 className="title">
-        Test Prettier Welcome to <a href="https://nextjs.org">Next.js!</a>
+        Test Prettier v2 Welcome to <a href="https://nextjs.org">Next.js!</a>
       </h1>
 
       <p className="description">
